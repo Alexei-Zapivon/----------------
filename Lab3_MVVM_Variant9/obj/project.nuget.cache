@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "RFhaGheuSmA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aleskey\\Desktop\\ПРОГРАММИРОВАНИЕ\\Lab3_MVVM_Variant9\\Lab3_MVVM_Variant9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aleskey\\.nuget\\packages\\communitytoolkit.mvvm\\8.2.2\\communitytoolkit.mvvm.8.2.2.nupkg.sha512",
+    "C:\\Users\\Aleskey\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\Aleskey\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\Aleskey\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

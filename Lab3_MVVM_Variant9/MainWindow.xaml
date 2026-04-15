@@ -1,0 +1,36 @@
+<Window x:Class="Lab3_MVVM_Variant9.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:vm="clr-namespace:Lab3_MVVM_Variant9.ViewModels"
+        xmlns:views="clr-namespace:Lab3_MVVM_Variant9.Views"
+        Title="Lab3 - Документы (MVVM)" Height="700" Width="1050"
+        WindowStartupLocation="CenterScreen">
+
+    <Window.DataContext>
+        <vm:MainViewModel />
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <!-- Шапка -->
+        <Border Grid.Row="0" Background="#2C3E50">
+            <TextBlock Text="Система управления документами - Вариант 9"
+                       Foreground="White" FontSize="18" FontWeight="Bold"
+                       VerticalAlignment="Center" HorizontalAlignment="Center"/>
+        </Border>
+
+        <!-- Вкладки -->
+        <TabControl Grid.Row="1" SelectedIndex="{Binding SelectedTabIndex}">
+            <TabItem Header="📄  Документы">
+                <views:DocumentsView DataContext="{Binding DocumentsVM}"/>
+            </TabItem>
+            <TabItem Header="📊  Статистика">
+                <views:StatisticsView DataContext="{Binding StatisticsVM}"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>

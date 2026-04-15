@@ -1,0 +1,14 @@
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\bin\Debug\net8.0\Lab1_OOP_Variant9.exe
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\bin\Debug\net8.0\Lab1_OOP_Variant9.deps.json
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\bin\Debug\net8.0\Lab1_OOP_Variant9.runtimeconfig.json
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\bin\Debug\net8.0\Lab1_OOP_Variant9.dll
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\bin\Debug\net8.0\Lab1_OOP_Variant9.pdb
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\Lab1_OOP_Variant9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\Lab1_OOP_Variant9.AssemblyInfoInputs.cache
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\Lab1_OOP_Variant9.AssemblyInfo.cs
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\Lab1_OOP_Variant9.csproj.CoreCompileInputs.cache
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\Lab1_OOP_Variant9.dll
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\refint\Lab1_OOP_Variant9.dll
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\Lab1_OOP_Variant9.pdb
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\Lab1_OOP_Variant9.genruntimeconfig.cache
+C:\Users\Aleskey\Desktop\ПРОГРАММИРОВАНИЕ\Lab1_OOP_Variant9\obj\Debug\net8.0\ref\Lab1_OOP_Variant9.dll
