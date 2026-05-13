@@ -1,0 +1,13 @@
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\bin\Debug\net8.0\Lab6_Shared.deps.json
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\bin\Debug\net8.0\Lab6_Shared.dll
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\bin\Debug\net8.0\Lab6_Shared.pdb
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.csproj.AssemblyReference.cache
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.GeneratedMSBuildEditorConfig.editorconfig
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.AssemblyInfoInputs.cache
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.AssemblyInfo.cs
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.csproj.CoreCompileInputs.cache
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.sourcelink.json
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.dll
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\refint\Lab6_Shared.dll
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\Lab6_Shared.pdb
+E:\----------------\Lab6_Queues_Variant9\Lab6_Shared\obj\Debug\net8.0\ref\Lab6_Shared.dll

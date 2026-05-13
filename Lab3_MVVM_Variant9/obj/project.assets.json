@@ -176,11 +176,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aleskey\\Desktop\\ПРОГРАММИРОВАНИЕ\\Lab3_MVVM_Variant9\\Lab3_MVVM_Variant9.csproj",
+      "projectUniqueName": "E:\\----------------\\Lab3_MVVM_Variant9\\Lab3_MVVM_Variant9.csproj",
       "projectName": "Lab3_MVVM_Variant9",
-      "projectPath": "C:\\Users\\Aleskey\\Desktop\\ПРОГРАММИРОВАНИЕ\\Lab3_MVVM_Variant9\\Lab3_MVVM_Variant9.csproj",
+      "projectPath": "E:\\----------------\\Lab3_MVVM_Variant9\\Lab3_MVVM_Variant9.csproj",
       "packagesPath": "C:\\Users\\Aleskey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aleskey\\Desktop\\ПРОГРАММИРОВАНИЕ\\Lab3_MVVM_Variant9\\obj\\",
+      "outputPath": "E:\\----------------\\Lab3_MVVM_Variant9\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
